@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my portfolio of writing samples [Portfolio](https://valeriahhdez.popsy.site/porfolio)
 
-- 📝 I regularly write articles on [Dev.to](https://dev.to/valeriahhdez)
+- 📝 I regularly write articles on [Valeria writes docs](https://dev.to/valeriahhdez)
 
 - 📄 Know about my experience [LinkedIn](https://www.linkedin.com/in/valeriahhdez/)
 
