@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
 
-- 👨‍💻 Check out my portfolio of writing samples [Portfolio](https://valeriahhdez.popsy.site/porfolio)
+- 👨‍💻 Check out my writing samples [Portfolio](https://valeriahhdez.popsy.site/porfolio)
 
 - 📝 I regularly write articles on [Valeria writes docs](https://dev.to/valeriahhdez)
 
