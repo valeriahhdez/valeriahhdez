@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valeria Hernandez</h1>
 <h3 align="center">A software technical writer and coding enthusiast</h3>
 
-- 🚀 I’m currently growing my tech skills by taking [**Harvard's CS50 Introduction to Python Programming**](https://github.com/valeriahhdez/CS50) and [**FreeCodeCamp's Responsive Web Design**](https://www.freecodecamp.org/valeriahhdez)
+- 🚀 I’m currently growing my tech skills by taking [**Harvard's CS50 Introduction to Python Programming**](https://github.com/valeriahhdez/CS50) 
 
 - 👨‍💻 Check out my technical writing samples on my [Portfolio](https://valeriahhdez.popsy.site/porfolio)
 
