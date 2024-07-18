@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valeria Hernandez</h1>
 <h3 align="center">A software technical writer and coding enthusiast</h3>
 
-- 🚀 I’m currently growing my tech skills by taking [**Harvard's CS50 Introduction to Python Programming**](https://github.com/valeriahhdez/CS50) 
+- 🚀 I graduated from [**Harvard's CS50 Introduction to Python Programming**](https://github.com/valeriahhdez/CS50) 
 
 - 👨‍💻 Check out my technical writing samples on my [Portfolio](https://valeriahhdez.popsy.site/porfolio)
 
-- 🐙 I am a co-lead and project steering committee member of [The Good Docs Project](https://thegooddocsproject.dev/)
+- 🐙 I am a technical writer volunteer and project steering committee member of [The Good Docs Project](https://thegooddocsproject.dev/)
 
 - 📝 I regularly write articles on [Valeria writes docs](https://dev.to/valeriahhdez)
 
