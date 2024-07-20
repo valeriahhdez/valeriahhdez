@@ -11,6 +11,8 @@
 
 - 📄 Want to know about my experience? Visit my [LinkedIn](https://www.linkedin.com/in/valeriahhdez/)
 
+- I am currently participating in [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants), working with the [JSON schema project](https://json-schema.org/). 
+
 <!---<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>--->
