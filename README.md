@@ -5,13 +5,13 @@
 
 - 👨‍💻 Check out my technical writing samples on my [Portfolio](https://valeriahhdez.popsy.site/porfolio)
 
-- 🐙 I am a technical writer volunteer and project steering committee member of [The Good Docs Project](https://thegooddocsproject.dev/)
+- 🐙 I am a working group co-lead and project steering committee member of [The Good Docs Project](https://thegooddocsproject.dev/)
 
 - 📝 I regularly write articles on [Valeria writes docs](https://dev.to/valeriahhdez)
 
 - 📄 Want to know about my experience? Visit my [LinkedIn](https://www.linkedin.com/in/valeriahhdez/)
 
-- I am currently participating in [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants), working with the [JSON schema project](https://json-schema.org/). 
+- I am currently participating in [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants) working as a technical writer for the [JSON schema project](https://json-schema.org/). 
 
 <!---<h3 align="left">Connect with me:</h3>
 <p align="left">
