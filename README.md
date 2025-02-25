@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Valeria Hernandez</h1>
-<h3 align="center">A software technical writer and coding enthusiast</h3>
+<h3 align="center">A software technical writer and I am passionate about empowering developers to build awesome products through great documentation.</h3>
 
-- 🚀 I completed [**Harvard's CS50 Introduction to Python Programming**](https://github.com/valeriahhdez/CS50)
-  
-- 📝 I write articles on [Valeria writes docs](https://dev.to/valeriahhdez) 
+- 🐙 I co-chair [The Good Docs Project](https://thegooddocsproject.dev/), lead their partnerships team, and co-lead their UX research team. 
 
-- 🐙 I am a working group co-lead and project steering committee member of [The Good Docs Project](https://thegooddocsproject.dev/)
+- I revamped [JSON schema project](https://json-schema.org/)' documentation information architecture during [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants).
+  
+- 👨‍💻 My technical writing [portfolio](https://valeriahhdez.popsy.site/porfolio) showcases my expertise documenting software for developers. 
+  
+- 📄 Let's connect! [LinkedIn](https://www.linkedin.com/in/valeriahhdez/)
 
-- I am currently participating in [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants) working as a technical writer for the [JSON schema project](https://json-schema.org/).
-  
-- 👨‍💻 Check out my technical writing samples on my [Portfolio](https://valeriahhdez.popsy.site/porfolio)
-  
-- 📄 Want to know about my experience? Visit my [LinkedIn](https://www.linkedin.com/in/valeriahhdez/)
 
 <!---<h3 align="left">Connect with me:</h3>
 <p align="left">
