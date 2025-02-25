@@ -3,7 +3,7 @@
 
 - 🐙 I co-chair [The Good Docs Project](https://thegooddocsproject.dev/), lead their partnerships team, and co-lead their UX research team. 
 
-- I revamped [JSON schema project](https://json-schema.org/)' documentation information architecture during [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants).
+- I revamped [JSON schema project](https://json-schema.org/)' documentation information architecture during [Google Season of Docs 2024](https://developers.google.com/season-of-docs/docs/participants) and became documentation co-chair. 
   
 - 👨‍💻 My technical writing [portfolio](https://valeriahhdez.popsy.site/porfolio) showcases my expertise documenting software for developers. 
   
