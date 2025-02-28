@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria Hernandez</h1>
-<h3 align="center">A software technical writer and I am passionate about empowering developers to build awesome products through great documentation.</h3>
+<h3 align="center">A software technical writer and I am passionate about empowering developers to solve problems through great documentation.</h3>
 
 - 🐙 I co-chair [The Good Docs Project](https://thegooddocsproject.dev/), lead their partnerships team, and co-lead their UX research team. 
 
